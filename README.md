@@ -22,6 +22,7 @@ Now clicking on or in an element with the class "foo" will add the class "clicke
 	}
 	.foo.clicked {
 		background-color: red;
+		//Include awesome CSS animations here
 	}
 ```
 Available as a bower plugin too:
