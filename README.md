@@ -16,3 +16,16 @@ Include jQuery and the plugin on a page. Then pass a class name to it like so:
 
 Now clicking on or in an element with the class "foo" will add the class "clicked" to it (and remove it from other elements with that class.)
 
+```css
+	.foo {
+		background-color: blue;
+	}
+	.foo.clicked {
+		background-color: red;
+	}
+```
+Available as a bower plugin too:
+
+```html
+	bower install clickable
+```
