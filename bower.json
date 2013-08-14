@@ -1,0 +1,12 @@
+{
+  "name": "clickable",
+  "version": "0.0.1",
+  "main": "clickable.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
